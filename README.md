@@ -4,7 +4,6 @@
 <img src="CerviCure.png" alt="Cervicure">
 </p>
 
-
 🔍 What is Cervical Cancer?
 
 Cervical cancer starts in the cells of the cervix — the lower part of the uterus that connects to the vagina. It typically develops over time and can be detected early through regular screening tests. If left untreated, it can spread to other parts of the body, becoming life-threatening.
