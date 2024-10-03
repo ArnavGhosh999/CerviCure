@@ -28,3 +28,7 @@ Cervical cancer in its early stages may not present any obvious symptoms 🕵️
 - Pain during intercourse 😣
 - Unusual vaginal discharge 💧
 - Pelvic pain
+
+<p>
+  <img src = "Runs/PR_curve.png" alt ="PR_curve">
+</p>
