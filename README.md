@@ -29,6 +29,15 @@ Cervical cancer in its early stages may not present any obvious symptoms 🕵️
 - Unusual vaginal discharge 💧
 - Pelvic pain
 
+Models used and to be implementt
+
+```
+MODELS                           STATUS
+1. YOLO v8                    IMPLEMENTED
+2. YOLO retinanet             UNDER IMPLEMENTATION
+3. CNN- ABCD                  UNDER IMPLEMENTATION
+```
+
 <p>
   <img src = "Runs/PR_curve.png" alt ="PR_curve">
 </p>
