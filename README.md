@@ -41,3 +41,7 @@ MODELS                           STATUS
 <p>
   <img src = "Runs/PR_curve.png" alt ="PR_curve">
 </p>
+
+<p>
+  <img src = "Runs/results.png" alt="results">
+</p>
