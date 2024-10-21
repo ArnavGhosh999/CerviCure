@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="CerviCure.png" alt="Cervicure">
-</p>
+</p
 
 <p>This repository contains the implementation of the YOLOv8 model for object detection as part of the CerviCure project. The model is trained to detect and classify objects in cervical cancer-related datasets. This README provides a step-by-step guide for setting up, training, and running the YOLOv8 model using Google Colab.</p>
 
